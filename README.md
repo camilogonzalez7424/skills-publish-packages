@@ -91,6 +91,30 @@ Let's trying running it.
   Review what we learned, ask for feedback, provide next steps.
 -->
 
+## Evidence
+
+**Login**
+
+<img src="img/docker_login.png">
+
+**Docker Pull**
+```docker pull ghcr.io/camilogonzalez7424/publish-packages/game:sha-513eb9c```
+<img src="img/docker_pull.png">
+
+**Docker images**
+
+<img src="img/docker_images.png">
+
+**Docker run**
+<img src="img/docker_run.png">
+
+**Status**
+<img src="img/docker_ps.png">
+
+**Game:**
+<img src="img/game.png">
+<br>
+
 ## Finish
 
 _Congratulations friend, you've completed this course!_
